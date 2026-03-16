@@ -6,12 +6,12 @@ html {
 
 body {
   margin: 0;
-  font-family: 'Inter', system-ui, Helvetica, Arial, sans-serif;
+  font-family: 'Barlow', system-ui, Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 400;
-  background: #07090c;
-  color: #f2f4f8;
+  background: #F6F4F1;
+  color: #1A1A18;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;

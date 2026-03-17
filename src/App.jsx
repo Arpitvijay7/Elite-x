@@ -134,7 +134,7 @@ export default function App() {
     <div className="site">
       <header className={`nav ${scrolled ? "nav--solid" : ""}`}>
         <a href="#top" className="nav__brand">
-          <img src={logoSymbol} alt="Elyte" className="nav__logo-img" />
+          {/* <img src={logoSymbol} alt="Elyte" className="nav__logo-img" /> */}
           <span className="nav__brand-text">ELYTE</span>
         </a>
 
@@ -198,7 +198,7 @@ export default function App() {
             </p>
             <div className="hero__launch">
               <span className="hero__pulse" />
-              Comming Soon
+              Coming Soon
             </div>
           </Reveal>
         </div>

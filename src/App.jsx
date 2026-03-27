@@ -360,7 +360,7 @@ export default function App() {
           <Reveal className="availability__card" dir="left">
             <p>
               Distribution is planned through premium grocery, fitness networks,
-              and select retail partners. Priority markets focus on
+              and selected retail partners. Priority markets focus on
               high-frequency consumers seeking cleaner alternatives.
             </p>
             <div className="availability__badge">Retail Launch 2026</div>
@@ -404,7 +404,7 @@ export default function App() {
         <div className="footer__bottom">
           <p>© 2026 Aplha9 Corporation. All rights reserved.</p>
           <p className="footer__disclaimer">
-            Elyte is a trademark of Alpha9 Pvt. Ltd.
+            {/* Elyte is a trademark of Alpha9 Pvt. Ltd. */}
           </p>
         </div>
       </footer>
